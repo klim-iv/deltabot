@@ -59,7 +59,6 @@ class DeltaBot:
             save_mime_headers=1,
             e2ee_enabled=1,
             sentbox_watch=0,
-            mvbox_watch=0,
             bcc_self=0
         ))
 
